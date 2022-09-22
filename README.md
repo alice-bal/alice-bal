@@ -1,5 +1,7 @@
 <img src="https://ibb.co/Jd2xDZ2" alt="альтернативный текст">
 
+![Описание](https://ibb.co/Jd2xDZ2)
+
 # Hi - hi everyone 👋
 
 - 🔭 I’m currently a student 
