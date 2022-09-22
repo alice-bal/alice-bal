@@ -1,6 +1,4 @@
-<img src="https://ibb.co/Jd2xDZ2" alt="альтернативный текст">
-
-![Описание](https://ibb.co/Jd2xDZ2)
+![Описание](https://i.ibb.co/ZJKHq9K/image.png)
 
 # Hi - hi everyone 👋
 
